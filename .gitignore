@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # End of https://www.gitignore.io/api/r
 *graph.txt
+*.pdf
+test.R
+~*.doc
+~*.docx
