@@ -3,12 +3,17 @@ This is a test txt
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hey dude!
 =======
 Hey man!
 >>>>>>> refs/remotes/origin/Ke
 =======
 Hey dude!
+=======
+<<<<<<< HEAD
+Hey dude!
+>>>>>>> refs/remotes/origin/Pingyuan
 11111111111
 11111111111
 11111111111
@@ -27,6 +32,7 @@ Hey dude!
 11111111111
 11111111111
 11111111111
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/Pingyuan
 =======
 Hey man!
@@ -58,3 +64,12 @@ Hey man!
 22222222222
 22222222222
 >>>>>>> refs/remotes/origin/Ke
+=======
+=======
+<<<<<<< HEAD
+Hey dude!
+=======
+Hey man!
+>>>>>>> refs/remotes/origin/Ke
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/Pingyuan
