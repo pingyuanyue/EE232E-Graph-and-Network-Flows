@@ -1,5 +1,6 @@
 This is a test txt
 
+<<<<<<< HEAD
 Hey dude!
 11111111111
 11111111111
@@ -19,3 +20,10 @@ Hey dude!
 11111111111
 11111111111
 11111111111
+=======
+<<<<<<< HEAD
+Hey dude!
+=======
+Hey man!
+>>>>>>> refs/remotes/origin/Ke
+>>>>>>> refs/remotes/origin/master
