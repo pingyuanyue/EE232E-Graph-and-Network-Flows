@@ -39,3 +39,5 @@ vignettes/*.pdf
 *graph.txt
 *.pdf
 test.R
+~*.doc
+~*.docx
