@@ -1,3 +1,7 @@
 This is a test txt
 
+<<<<<<< HEAD
 Hey dude!
+=======
+Hey man!
+>>>>>>> refs/remotes/origin/Ke
